@@ -6,11 +6,9 @@ Welcome to the Weather App, a simple web application that provides accurate and 
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-*Caption for Screenshot 1.*
+![Screenshot (103)](https://github.com/Khaire7031/Weather-App/assets/121940469/4b9f2b65-042e-41a0-bb4d-02982e97fe70)
+![Screenshot (104)](https://github.com/Khaire7031/Weather-App/assets/121940469/93bc2950-6054-4717-8448-f98a3a921183)
 
-![Screenshot 2](/path/to/screenshot2.png)
-*Caption for Screenshot 2.*
 
 ## Demo Video
 
