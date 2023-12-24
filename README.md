@@ -7,7 +7,8 @@ Welcome to the Weather App, a simple web application that provides accurate and 
 
 ## Demo Video
 
-[[Watch Demo Video](https://www.youtube.com/watch?v=your_video_id)](https://github.com/Khaire7031/Weather-App/assets/121940469/dd1fb655-07b1-4f33-8ec1-b53f24bf5c54)
+https://github.com/Khaire7031/Weather-App/assets/121940469/dd1fb655-07b1-4f33-8ec1-b53f24bf5c54
+
 
 ## Screenshots
 
