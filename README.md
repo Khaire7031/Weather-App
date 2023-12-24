@@ -1,5 +1,6 @@
 # Weather App
-
+## site is live 
+ --> https://khaire7031.github.io/Weather-App/
 ## Description
 
 Welcome to the Weather App, a simple web application that provides accurate and timely weather information for cities around the globe.
