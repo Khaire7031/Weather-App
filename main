@@ -1,0 +1,27 @@
+{"cloud_pct": 12, "temp": 29, "feels_like": 28, "humidity": 18, "min_temp": 29, "max_temp": 29, "wind_speed": 4.85, "wind_degrees": 108, "sunrise": 1703381782, "sunset": 1703421098}
+CLOUD_PCT
+TEMP
+FEELS_LIKE
+HUMIDITY
+MIN_TEMP
+MAX_TEMP
+WIND_SPEED
+WIND_DEGREES
+SUNRISE
+SUNSET
+
+ <th style="width: 22%;">CLOUD_PCT</th>
+
+
+ {
+    "cloud_pct": 100,
+    "temp": 22,
+    "feels_like": 22,
+    "humidity": 49,
+    "min_temp": 22,
+    "max_temp": 22,
+    "wind_speed": 2.06,
+    "wind_degrees": 290,
+    "sunrise": 1703382055,
+    "sunset": 1703419185
+  }
